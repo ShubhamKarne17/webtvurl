@@ -29,7 +29,7 @@ const websitesData = [
     {
         title: "FireTv1",
         description: "All in one reborn",
-        url: "https://allinonereborn.fun/livetv-hub/",
+        url: "https://allinonereborn.xyz/livetv-hub/",
         category: "TV",
         color: "#04a3ffff"
     },
@@ -50,7 +50,7 @@ const websitesData = [
     {
         title: "FireTv1",
         description: "All in one reborn 4",
-        url: "https://allinonereborn.fun/sony/",
+        url: "https://allinonereborn.xyz/sony/",
         category: "TV",
         color: "#04a3ffff"
     },
@@ -106,21 +106,21 @@ const websitesData = [
     {
         title: "FireTv5",
         description: "All in one reborn - z",
-        url: "https://allinonereborn.fun/sony/",
+        url: "https://allinonereborn.xyz/sony/",
         category: "TV",
         color: "#ff004cff"
     },
     {
         title: "FireTv5",
         description: "All in one reborn - z",
-        url: "https://allinonereborn.fun/sony/",
+        url: "https://allinonereborn.xyz/sony/",
         category: "TV",
         color: "#ff004cff"
     },
     {
         title: "FireTv5",
         description: "All in one reborn - z",
-        url: "https://allinonereborn.fun/sony/",
+        url: "https://allinonereborn.xyz/sony/",
         category: "TV",
         color: "#ff004cff"
     },
